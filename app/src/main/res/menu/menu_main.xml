@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cs.fotag.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rating"
+        android:title="rating"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.RatingBar"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:title="search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+    <item
+        android:id="@+id/action_load"
+        android:title="load"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_more"
+        />
+    <item
+        android:id="@+id/action_clear"
+        android:title="clear"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_notification_clear_all"
+        />
+</menu>
