@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9466ebf146e3f3261f96e175ea70aa96d1dc283">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5dfd7e98cb056658674970608fba38f8703347ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_2f3480695abefc4c157239ebcdcb23951da9a8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_129cf11f6a3a0eea58a64b9a5fe8255d47ea93b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_8926f3ccef8f3708da9de63a12589d2c3ff337c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_f4bf7de9bfa360f9e9970eb99fbe2cbdb960a468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_4beb5f2d0c55310de2c0e2b9aa3d85fd9ab2b498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_a6c90e3fa0831ede926b7fb8da050748c3207158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b7a8f462f2de35c942dbdbfc667470c1e700464b">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7539b62311647bbe413a84408ff172220e3d262b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fotag\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_86a1aef7ea3edac636e8357ba66c67f99b3077e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dexter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\Fotag\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_297c8010d9edd0037c18c7f67b358b89defa8cb3\classes.dex" />
+    </item>
+
+</items>
